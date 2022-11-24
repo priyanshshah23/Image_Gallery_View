@@ -1,4 +1,4 @@
-# Task 2
+# Task
 
 In this project i have implemented
 - GridView with 2 column
