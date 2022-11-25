@@ -1,30 +1,32 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'Images.dart';
+import 'Model/Images.dart';
 
-class secondPage extends StatefulWidget {
-  const secondPage(this.images);   //initialized constructor with the necessary parameter
-  
+class galleryPage extends StatefulWidget {
+  const galleryPage(
+      this.images); //initialized constructor with the necessary parameter
+
   @required
-  final Images images;   //creating object of class image
+  final Images images; //creating object of class image
 
   @override
-  _secondPageState createState() => _secondPageState();
+  _galleryPageState createState() => _galleryPageState();
 }
 
-class _secondPageState extends State<secondPage> {
-
+class _galleryPageState extends State<galleryPage> {
   @override
   Widget build(BuildContext context) {
-    return Card(          //implementing card for each data
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10.0),
-        ),
-        child: Padding(
-          padding: EdgeInsets.all(10.0),
-          child: Container(
-            alignment: Alignment.center,
-            child: Column(
+    return Card(
+      //implementing card for each data
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(10.0),
+      ),
+      child: Padding(
+        padding: EdgeInsets.all(10.0),
+        child: Container(
+          alignment: Alignment.center,
+          child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.center,
               mainAxisSize: MainAxisSize.min,
