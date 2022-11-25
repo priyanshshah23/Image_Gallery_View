@@ -115,7 +115,7 @@ class _MyAppState extends State<MyApp> {
                                                 //grid view for showing 2 column containing images
                                                 controller: scrollController,
                                                 //for controlling the scroller
-                                                crossAxisCount: 2,
+                                                crossAxisCount: 3,
                                                 //for two column in single row
                                                 childAspectRatio: 1.0,
                                                 //width by height ratio
@@ -162,7 +162,7 @@ class _MyAppState extends State<MyApp> {
                                           //grid view for showing 2 column containing images
                                           controller: scrollController,
                                           //for controlling the scroller
-                                          crossAxisCount: 2,
+                                          crossAxisCount: 3,
                                           //for two column in single row
                                           childAspectRatio: 1.0,
                                           //width by height ratio
@@ -208,7 +208,7 @@ class _MyAppState extends State<MyApp> {
                                     //grid view for showing 2 column containing images
                                     controller: scrollController,
                                     //for controlling the scroller
-                                    crossAxisCount: 2,
+                                    crossAxisCount: 3,
                                     //for two column in single row
                                     childAspectRatio: 1.0,
                                     //width by height ratio
@@ -254,7 +254,7 @@ class _MyAppState extends State<MyApp> {
                                     //grid view for showing 2 column containing images
                                     controller: scrollController,
                                     //for controlling the scroller
-                                    crossAxisCount: 2,
+                                    crossAxisCount: 3,
                                     //for two column in single row
                                     childAspectRatio: 1.0,
                                     //width by height ratio
@@ -300,7 +300,7 @@ class _MyAppState extends State<MyApp> {
                                     //grid view for showing 2 column containing images
                                     controller: scrollController,
                                     //for controlling the scroller
-                                    crossAxisCount: 2,
+                                    crossAxisCount: 3,
                                     //for two column in single row
                                     childAspectRatio: 1.0,
                                     //width by height ratio
@@ -346,7 +346,7 @@ class _MyAppState extends State<MyApp> {
                                     //grid view for showing 2 column containing images
                                     controller: scrollController,
                                     //for controlling the scroller
-                                    crossAxisCount: 2,
+                                    crossAxisCount: 3,
                                     //for two column in single row
                                     childAspectRatio: 1.0,
                                     //width by height ratio

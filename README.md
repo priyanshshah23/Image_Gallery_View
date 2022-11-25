@@ -1,7 +1,7 @@
 # Task
 
-In this project i have implemented
-- GridView with 2 column
+In this project I had implemented
+- GridView with 3 column
 - Showing random images loaded from API to local database
 - Pagination for loading new sets of images and 10 images are shown per page
 
