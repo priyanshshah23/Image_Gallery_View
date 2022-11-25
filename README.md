@@ -8,6 +8,6 @@ In this project i have implemented
 ### Output
 
 - <h4>Showing images loaded from given url to the local database</h4>
-- <h4>Pagination done when scrolling then next 10 images will be loaded</h4>
 - <h4>Showing Chached Images loaded from url</h4>
-- <h4>New set of 10 cached images on scrolling </h4><br>
+- <h4>Scroll TabBar for category load</h4>
+- <h4>Add Filter Search for criteria </h4><br>
