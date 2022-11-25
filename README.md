@@ -1,9 +1,10 @@
 # Task
 
 In this project i have implemented
-- GridView with 2 column
-- Showing random images loaded from API to local database
-- Pagination for loading new sets of images and 10 images are shown per page
+- GridView with 2 column.
+- Showing random images loaded from API to local database.
+- TabBar for loading particular category files.
+- Saerch bar for filtering category data.
 
 ### Output
 
